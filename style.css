@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    text-decoration-color:black;
+    color:black;
+    padding: 40px;
+}
+header{
+    margin-right: -8px;
+    margin-left: -8px;       
+}
+nav{
+    text-align: center;
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+}
+.pop{
+    margin-left:60px;
+    border-left:8px  dotted black;
+}
+.op{
+   margin-left:40px; 
+border-left:8px  dotted black;
+}
+.po{
+    margin-left:40px; 
+border-left:8px  dotted black;
+}
+ main p{
+color:black;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+margin-right:40px ;
+margin-left: 40px;
+padding:10px;
+}
+footer{
+    background-color:black;
+    padding: 10px;
+}
+footer p{
+    background-color:white ;
+    padding-top:5px ;
+}
